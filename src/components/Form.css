@@ -1,0 +1,49 @@
+.content-form{
+    background: url(./../../img/estrellas.jpg)  ;
+    padding-top: 320px;
+    height: 100vh;
+}
+.portal{
+    display: flex;
+    left: 40%;
+    top:100px;
+    background-image: url(./../../img/portal.png);
+    background-size: contain;
+    position: absolute;
+    
+    width: 500px;
+    height: 500px;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    padding: 200px 50px 150px 50px ;
+ 
+    margin: 0px auto;
+       
+    color: white;
+    background: rgba(14, 188, 81, 0.03);
+    border-radius: 50px;
+    border: 2px rgb(14, 188, 81) solid;
+}
+.form label{
+    display: flex;
+    padding-left: 92px;
+    margin: 20px;
+}
+.form input{
+    margin: 0 auto;
+    width: 400px;
+    height: 30px;
+}
+.form button{
+    width: 150px;
+    height: 50px;
+margin: 0 auto;
+margin-top: 30px;
+   border-radius: 50px;
+   background-color: rgba(0, 214, 0, 0.901);
+   color:azure;
+}

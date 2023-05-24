@@ -1,0 +1,21 @@
+.content-searchBar{
+    
+    margin: 0 auto;
+}
+
+.content-searchBar input{
+    width: 300px;
+    height: 30px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px;
+    text-align: center;
+}
+
+.content-searchBar button{
+    margin-left: 20px;
+    border-radius: 20px;
+    height: 35px;
+    width: 70px;
+    background-color: rgb(8, 199, 8);
+    box-shadow: 5px 5px 5px;
+}

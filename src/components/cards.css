@@ -1,0 +1,18 @@
+.cards_conteiner{
+   
+display: flex;
+flex-wrap: wrap;
+flex-direction: row;
+
+
+justify-content: center;
+
+padding: 50px;
+
+
+}
+
+.card{
+    
+    margin: 10px;
+}

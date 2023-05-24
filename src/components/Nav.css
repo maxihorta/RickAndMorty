@@ -1,0 +1,24 @@
+.content-nav{ 
+    background-color: rgba(14, 188, 81, 0.9);
+    border: 2px rgb(14, 188, 81) solid;
+    height: 50px;
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px rgba(255, 255, 255, 0.653) ;
+  display: flex;
+  justify-content: center;
+ text-align: center;
+ align-items: center;
+}
+
+.content-nav button{
+    margin-left: 20px;
+    border-radius: 20px;
+    height: 35px;
+    width: 70px;
+    background-color: rgb(8, 199, 8);
+    box-shadow: 5px 5px 5px;
+
+}
+
